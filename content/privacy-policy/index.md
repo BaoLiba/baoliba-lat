@@ -4,29 +4,41 @@ date: 2025-03-31
 draft: false
 ---
 
-**Privacy Policy**
+# 🛡️ Política de Privacidad
 
-Last updated: [March 2025]
+**Última actualización: marzo de 2025**
 
-This blog is operated by BaoLiba. We respect your privacy and are committed to keeping this site simple and transparent.
+Este sitio es operado por **BaoLiba**. Respetamos tu privacidad y nos comprometemos a mantener este sitio **simple y transparente**.
 
-**1. What we collect**
+---
 
-We do not collect personal data directly.  
-We do not offer login, comment, or registration features.
+## 1. ¿Qué información recopilamos?
 
-However, we may use third-party services such as Google Analytics to help understand traffic behavior. These services may use cookies or anonymized IP tracking.
+No recopilamos datos personales de forma directa.  
+No ofrecemos funciones de inicio de sesión, comentarios o registro.
 
-**2. Cookies**
+Sin embargo, podríamos utilizar servicios de terceros como **Google Analytics** para entender mejor el comportamiento del tráfico en el sitio. Estos servicios pueden usar **cookies** o **seguimiento de IP anónima**.
 
-Some pages may use cookies via third-party plugins or embedded media (e.g., videos, maps).  
-You can disable cookies in your browser settings.
+---
 
-**3. External links**
+## 2. Cookies
 
-Our site may contain links to other websites. We are not responsible for their privacy practices.
+Algunas páginas pueden usar cookies mediante **plugins de terceros** o **contenido embebido** (por ejemplo, videos o mapas).
 
-**4. Contact**
+Puedes desactivar las cookies desde la configuración de tu navegador.
 
-If you have any questions, feel free to contact us at: info@baoliba.com
+---
 
+## 3. Enlaces externos
+
+Nuestro sitio puede contener enlaces a otros sitios web.  
+No somos responsables por sus prácticas de privacidad ni por el manejo de tus datos en sitios externos.
+
+---
+
+## 4. Contacto
+
+Si tienes preguntas sobre esta política o el uso de tus datos, puedes escribirnos a:  
+✉️ **info@baoliba.com**
+
+---
