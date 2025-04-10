@@ -4,41 +4,46 @@ date: 2025-03-31
 draft: false
 ---
 
-# Contact Us
+# 📬 Contáctanos
 
-Thank you for visiting BaoLiba!
+¡Gracias por visitar **BaoLiba**!
 
-If you have any questions, business inquiries, partnership proposals, or just want to say hello — feel free to reach out. We’d love to hear from you.
-
----
-
-### 📍 Our Location  
-**BaoLiba** is proudly based in **Changsha, China**.
-
-**Office Address:**  
-Room B1, Xinchanghai Center,  
-Lugu, Yuelu District, Changsha City,  
-Hunan Province, China
-
-(中文地址：湖南省长沙市岳麓区麓谷新长海中心B1栋)
+Si tienes alguna pregunta, consulta comercial, propuesta de colaboración o simplemente quieres saludarnos, no dudes en escribirnos. Nos encantaría escucharte.
 
 ---
 
-### 📧 Email  
-For all inquiries, please contact:  
-**info@baoliba.com**
+## 📍 Nuestra Ubicación
 
-We typically respond within 1–2 business days.
+BaoLiba tiene su sede en **Changsha, China**.
+
+**Dirección de oficina:**  
+Edificio B1, Centro Xinchanghai  
+Lugu, Distrito Yuelu, Ciudad de Changsha  
+Provincia de Hunan, China
+
+> *(Dirección en chino: 湖南省长沙市岳麓区麓谷新长海中心B1栋)*
 
 ---
 
-### 💬 Languages  
-We speak **English** and **Chinese**, and we work with content in over 12 languages.
+## 📧 Correo Electrónico
+
+Para cualquier consulta, por favor escríbenos a:  
+📨 **info@baoliba.com**
+
+Respondemos normalmente en un plazo de **1 a 2 días hábiles**.
 
 ---
 
-### 📢 Let’s Collaborate  
-Whether you're a brand, influencer, agency, or platform —  
-If you're interested in cross-border influencer marketing, localization, or content production, we're happy to connect.
+## 💬 Idiomas
 
-Let’s grow globally, together.
+Hablamos **inglés** y **chino**, y trabajamos con contenido en más de **12 idiomas**.
+
+---
+
+## 📢 ¡Colaboremos!
+
+Ya seas una **marca, influencer, agencia o plataforma**,  
+si estás interesado en el **marketing de influencers internacional**, la **localización de contenido** o la **producción de contenido**, estaremos encantados de colaborar contigo.
+
+🌍 **Crecemos globalmente, contigo.**
+
