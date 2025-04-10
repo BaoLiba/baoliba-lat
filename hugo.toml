@@ -1,0 +1,100 @@
+# =========================
+# ✅ Cada sitio debe personalizar los siguientes campos
+# =========================
+baseURL = "/"
+languageCode = "es"
+languageName = "Español"
+defaultContentLanguage = "es"
+title = "BaoLiba lat"
+theme = "LoveIt"
+
+[params]
+
+  # ✅ Configuración SEO
+  title = "BaoLiba - Conectando influencers y marcas en América Latina"
+  description = "BaoLiba es una plataforma de influencers transfronteriza que ayuda a las marcas globales a conectar con creadores locales en más de 50 países."
+  keywords = ["marketing de influencers", "BaoLiba", "creadores globales", "comercio electrónico internacional"]
+
+  # ✅ Logo en el encabezado
+  [params.header.title]
+    name = "BaoLiba - Conectando influencers y marcas en América Latina"
+    pre = ""
+    post = ""
+    typeit = false
+
+  # ✅ Apariencia de la aplicación (PWA)
+  [params.app]
+    title = "BaoLiba 🇲🇽"
+    svgFavicon = "favicon.png"
+    noFavicon = false
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
+
+  # ✅ Configuración de estilo
+  defaultTheme = "light"
+  disableThemeSwitch = true
+  customCSS = ["css/extended.css"]
+
+  # ✅ Icono del sitio
+  [params.assets]
+    favicon = "/favicon.png"
+
+  # ✅ Contenido del pie de página
+  [params.footer]
+    enable = true
+    hugo = false
+    author = false
+    copyright = false
+    since = 2025
+    custom = '''
+    <div class="footer-links">
+      <a href="https://baoliba.com/" target="_blank" rel="noopener">BaoLiba</a> |
+      <a href="/about/">Acerca de</a> |
+      <a href="/privacy-policy/">Política de Privacidad</a> |
+      <a href="/terms-of-use/">Términos de Uso</a> |
+      <a href="/contact-us/">Contáctanos</a>
+    </div>
+    '''
+
+  # ✅ Configuración de las páginas
+  [params.page]
+    author = false
+    layout = "post"
+
+# =========================
+# ✅ Configuración global
+# =========================
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+canonifyURLs = true
+uglyURLs = false
+
+[markup.highlight]
+  noClasses = false
+
+[frontmatter]
+  format = "yaml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Publicaciones"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Etiquetas"
+    url = "/tags/"
+    weight = 2
+
+
